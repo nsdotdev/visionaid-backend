@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Uploaded images (temporary processing files)
+uploads/*
+!uploads/.gitkeep
+
+# Generated OCR output (text and audio files)
+Output/*
+!Output/.gitkeep
