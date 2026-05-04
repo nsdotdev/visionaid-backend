@@ -30,7 +30,7 @@ Python backend for VisionAid, an assistive application that extracts text from d
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/visionaid-backend.git
+git clone https://github.com/nsdotdev/visionaid-backend.git
 cd visionaid-backend
 
 # Create and activate a virtual environment
